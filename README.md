@@ -51,7 +51,8 @@ jupyter notebook
 5. **Cross-Sector Analysis**: Analyze sector performance patterns across different market regimes
 
 ## Team
-CMPT 459 Final Project - Fall 2025
+Team name: Sleepycats
+Team members: Yogya Agrawal, Ananya Singh
 
 ## License
 Academic use only - SFU CMPT 459 course project
